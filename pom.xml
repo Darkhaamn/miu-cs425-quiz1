@@ -24,7 +24,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>edu.miu.cams.CamsApplication</mainClass>
+                            <mainClass>edu.miu.CamsApplication</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
