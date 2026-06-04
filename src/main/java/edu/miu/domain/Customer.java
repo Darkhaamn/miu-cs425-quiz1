@@ -1,6 +1,7 @@
-package edu.miu;
+package edu.miu.domain;
 
 public class Customer {
+
     private int customerId;
     private String firstName;
     private String lastName;
