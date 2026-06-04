@@ -6,8 +6,6 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
 
     public static void main(String[] args) {
@@ -44,8 +42,7 @@ public class Main {
                 "Checking",
                 LocalDate.of(2026, 5, 17),
                 new BigDecimal("155900.50"),
-                bob
-        ));
+                bob));
 
         accounts.add(new Account(
                 2,
@@ -53,8 +50,7 @@ public class Main {
                 "Savings",
                 LocalDate.of(2023, 6, 2),
                 new BigDecimal("12500.95"),
-                bob
-        ));
+                bob));
 
         accounts.add(new Account(
                 3,
@@ -62,8 +58,7 @@ public class Main {
                 "Savings",
                 LocalDate.of(2010, 7, 11),
                 new BigDecimal("1075000.00"),
-                carlos
-        ));
+                carlos));
 
         accounts.add(new Account(
                 4,
@@ -71,8 +66,7 @@ public class Main {
                 "Checking",
                 LocalDate.of(2024, 3, 29),
                 new BigDecimal("11700.99"),
-                anna
-        ));
+                anna));
 
         return accounts;
     }
