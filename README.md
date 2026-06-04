@@ -16,7 +16,7 @@ java -jar target/pamsapp.jar
 
 ## Class Diagram
 
-![Detailed Design Diagram](Class_Diagram.png)
+![Detailed Design Diagram](./diagram/Class_Diagram.png)
 
 ## Detailed Design Diagram
 
